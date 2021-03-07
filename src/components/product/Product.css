@@ -1,0 +1,14 @@
+.single-product {
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin: 0 10px 5px 0;
+    padding-bottom: 5px;
+  }
+  button {
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
